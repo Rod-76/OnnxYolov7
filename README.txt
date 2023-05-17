@@ -22,7 +22,7 @@ conda deactivate
 
 
 --Go to AI Directory
-cd C:\Users\jemar\Desktop\Python Projects\OpenCV\RoboFlow\OnnxYolov7\
+cd C:\Users\RPA\Desktop\Python Projects\OpenCV\RoboFlow\OnnxYolov7\
 
 
 --Install requirements
